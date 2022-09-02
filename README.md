@@ -33,7 +33,7 @@ im from Bolivia 🇧🇴 im Studying now at the college to be a systems engineer
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-<a><img src="[https://steamuserimages-a.akamaihd.net/ugc/1012654109709095922/64F005937B0BD925739E791E690AFCF16A0CB313/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/></a>
+<a><img src="https://steamuserimages-a.akamaihd.net/ugc/1012654109709095922/64F005937B0BD925739E791E690AFCF16A0CB313/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/></a>
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kernelboy34" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_b__kernel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
