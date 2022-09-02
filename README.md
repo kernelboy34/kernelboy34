@@ -33,7 +33,7 @@ im from Bolivia 🇧🇴 im Studying now at the college to be a systems engineer
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-<a><img src="https://www.memeatlas.com/images/wojaks/wojak-playing-vidya-rainy-night.gif"></a>
+<img src="https://steamcommunity.com/sharedfiles/filedetails/?l=portuguese&id=1687201179">
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/kernelboy34" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_b__kernel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
