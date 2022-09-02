@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is bernardo pedrazas or \_b\_kernel
+Hi ![](https://img.meutimao.com.br/_upload/forumtopico/2016/07/27/tumblr_inline_o7h3qjdhdg1qihivo_500.gif)My name is bernardo pedrazas or \_b\_kernel
 ========================================================================================================================================================
 
 pentester, web developer and future systems engineer😎
