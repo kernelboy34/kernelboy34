@@ -31,7 +31,10 @@ im from Bolivia 🇧🇴 im Studying now at the college to be a systems engineer
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+ <a href="https://learn.microsoft.com/es-es/dotnet/desktop/wpf/xaml/?view=netdesktop-6.0" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png" width="36" height="36" alt="XD" /></a>
 </p>
+</p>
+
 
 <a><img src="https://steamuserimages-a.akamaihd.net/ugc/1012654109709095922/64F005937B0BD925739E791E690AFCF16A0CB313/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/></a>
 ### Socials
