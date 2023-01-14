@@ -44,7 +44,6 @@ im from Bolivia 🇧🇴 im Studying now at the college to be a systems engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kernelboy34"><img src="https://github-readme-stats.vercel.app/api?username=kernelboy34&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=171717&hide_border=true&show_icons=true" alt="kernelboy34's GitHub stats" /></a>
 
 <a href="http://www.github.com/kernelboy34"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kernelboy34&stroke=a855f7&background=171717&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
