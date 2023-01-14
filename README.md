@@ -47,12 +47,3 @@ im from Bolivia 🇧🇴 im Studying now at the college to be a systems engineer
 
 <a href="http://www.github.com/kernelboy34"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kernelboy34&stroke=a855f7&background=171717&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="http://www.github.com/kernelboy34"><img src="https://activity-graph.herokuapp.com/graph?username=kernelboy34&bg_color=171717&color=a855f7&line=ec4899&point=a855f7&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/kernelboy34/_mydrugss" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kernelboy34&repo=_mydrugss&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/kernelboy34/asistente" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kernelboy34&repo=asistente&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/kernelboy34/asamble" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kernelboy34&repo=asamble&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/kernelboy34/fuck-sec-" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kernelboy34&repo=fuck-sec-&title_color=6366f1&text_color=a855f7&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en" /></a></div>
