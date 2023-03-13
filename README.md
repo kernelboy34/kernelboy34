@@ -7,7 +7,6 @@ pentester, web developer and future systems engineer😎
 im from Bolivia 🇧🇴 im Studying now at the college to be a systems engineer but since i was 17 i was really interested in all the world of development and cyber security so i teach myself with all the resources at my disposition i work really hard to improve myself and in this profile you will see all the progress i make ❤️
 
 * 🌍  I'm based in Bolivia🇧🇴
-* ✉️  You can contact me at [thehernelwachtdog@protonmail.com](mailto:thehernelwachtdog@protonmail.com)
 * 🚀  I'm currently working on [my drugs a fan made that i make of the serie how to sell drugs online](http://kernelboy34.github.io/_mydrugss/index.html)
 * 🧠  I'm learning c# ,c++,python new skills and HolyC just for fun hahaha
 * 🤝  I'm open to collaborating on cyber security projects, web development and low-level development
