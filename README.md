@@ -1,4 +1,4 @@
-Hi ![](https://i1.wp.com/gifs.org.es/gifs/2013/06/mini-smilies.gif?fit=31%2C25&ssl=1)  My name is bernardo pedrazas or \_b\_kernel
+Hi ![](https://i1.wp.com/gifs.org.es/gifs/2013/06/mini-smilies.gif?fit=31%2C25&ssl=1)  hi there
 ========================================================================================================================================================
 
 pentester, web developer and future systems engineer😎
